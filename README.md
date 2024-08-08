@@ -17,7 +17,7 @@ GPT-4o is an open-source project designed to provide an alternative to ChatGPT-4
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/FardinHash/GPT4o.git
+git clone https://github.com/chaffee-lab/GPT4o.git
 cd GPT4o
 ```
 
